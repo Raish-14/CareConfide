@@ -1,0 +1,22 @@
+# Environment
+.env
+.env.local
+backend/.env
+frontend/.env
+
+# Node
+node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/.venv/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
